@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jannnn444
 -  ♥  I’m interested in art, movie, natural and technology
 - 🌱 I’m currently learning iOs swiftUI
-- 💞️ I’m looking to collaborate on other coders in the recent future!
+- 💞️ I’m looking to collaborate with other coders in the recent future!
 - 📫 How to reach me : yucianhuang@gmail.com
 
 <!---
